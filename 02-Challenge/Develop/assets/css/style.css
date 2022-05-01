@@ -27,15 +27,11 @@ h4 {
     font-size: 20px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
 p {
     font-size: 16px;
 }
 
+/* Page Heading Styling */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -43,6 +39,7 @@ header {
     color: #ffffff;
 }
 
+/* Navigation Bar Styling*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -60,12 +57,14 @@ header nav menu li {
     margin-left: 25px;
 }
 
+/* Banner Image Styling*/
 figure {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
 }
 
+/* Main Content Styling */
 main {
     width: 75%;
     display: inline-block;
@@ -85,6 +84,7 @@ main section img {
     max-height: 200px;
 }
 
+/* Side Bar Styling */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -107,6 +107,7 @@ aside section img {
     max-width: 150px;
 }
 
+/* Footer Styling */
 footer {
     padding: 30px;
     clear: both;
@@ -114,20 +115,30 @@ footer {
     text-align: center;
 }
 
+/* Navigation Link Text Decoration */
+.nav-link {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* Make Main Section images float left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Make Main Section images float right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Adds color accent to "seo" in header logo */
 #seo {
     color: #d9dcd6;
 } 
 
+/* Extra Banner Image stylying */
 #hero {
     width: 100%;
     height: 100%;
