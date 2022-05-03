@@ -16,4 +16,9 @@ This Week One Challenge for the Georgia Tech Part-Time Coding Bootcamp required 
 
 I found the challenge to be a fun exercise. I had to think creatively in how to condese the code without changing the over all functionality of the site.
 
+[Link to deployed site](https://mmmphoto.github.io/Module_1_Challenge/)
+
+![Screenshot](/assets/images/Module_1_Challenge_deployed_screenshot.png?raw=true "Screenshot")
+
+
 © 2022 Max McDonough
